@@ -1,2 +1,2 @@
 # Netflix
-This is the clone of the Netflix Webpage . I use the HTML and CSS 
+A simple Netflix clone built using only HTML and CSS. This project focuses on replicating the design and layout of Netflix's homepage
